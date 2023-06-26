@@ -48,6 +48,8 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yezhengkai&repo=ground-based-cloud&show_owner=true&theme=monokai)](https://github.com/yezhengkai/ground-based-cloud)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yezhengkai&repo=VMLS&show_owner=true&theme=monokai)](https://github.com/yezhengkai/VMLS)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yezhengkai&repo=docker-example&show_owner=true&theme=monokai)](https://github.com/yezhengkai/docker-example)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yezhengkai&repo=1st-JuliaMarathon&show_owner=true&theme=monokai)](https://github.com/yezhengkai/1st-JuliaMarathon)
+
 
 </details>
 
