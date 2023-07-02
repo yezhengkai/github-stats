@@ -5,10 +5,9 @@
 
 
 ### Web Page
-- Personal Web Page
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yezhengkai&repo=yezhengkai.github.io&&theme=monokai)](https://yezhengkai.github.io/)
-
+[![Static Badge](https://img.shields.io/badge/Personl%20Web%20Page-green.svg)](https://yezhengkai.github.io/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yezhengkai)
 
 ### Projects
 <details>
