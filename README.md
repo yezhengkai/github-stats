@@ -6,13 +6,15 @@
 
 ### Web Page
 
-[![Static Badge](https://img.shields.io/badge/Personal%20Web%20Page-green.svg)](https://yezhengkai.github.io/)
+[![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)](https://yezhengkai.github.io/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yezhengkai)
+[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/risen4567)
 
 ### Projects
 <details>
 <summary><h3> 2023 (click here)</h3></summary>
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yezhengkai&repo=LawGPT&show_owner=true&theme=monokai)](https://github.com/yezhengkai/LawGPT)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yezhengkai&repo=roc-law-corpus&show_owner=true&theme=monokai)](https://github.com/yezhengkai/roc-law-corpus)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yezhengkai&repo=RemBG.jl&show_owner=true&theme=monokai)](https://github.com/yezhengkai/RemBG.jl)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yezhengkai&repo=ImageMattingApp.jl&show_owner=true&theme=monokai)](https://github.com/yezhengkai/ImageMattingApp.jl)
