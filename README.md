@@ -11,9 +11,23 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/risen4567)
 
 ### Projects
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yezhengkai&repo=data-structures-and-algorithms&show_owner=true&theme=monokai)](https://github.com/yezhengkai/data-structures-and-algorithms)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yezhengkai&repo=manipulate-large-datasets&show_owner=true&theme=monokai)](https://github.com/yezhengkai/manipulate-large-datasets)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yezhengkai&repo=web-map-app&show_owner=true&theme=monokai)](https://github.com/yezhengkai/web-map-app)
+
+<details>
+<summary><h3> 2024 (click here)</h3></summary>
+  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yezhengkai&repo=web-map-app&show_owner=true&theme=monokai)](https://github.com/yezhengkai/web-map-app)
+
+</details>
+
 <details>
 <summary><h3> 2023 (click here)</h3></summary>
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yezhengkai&repo=manipulate-large-datasets&show_owner=true&theme=monokai)](https://github.com/yezhengkai/manipulate-large-datasets)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yezhengkai&repo=data-structures-and-algorithms&show_owner=true&theme=monokai)](https://github.com/yezhengkai/data-structures-and-algorithms)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yezhengkai&repo=LawGPT&show_owner=true&theme=monokai)](https://github.com/yezhengkai/LawGPT)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yezhengkai&repo=roc-law-corpus&show_owner=true&theme=monokai)](https://github.com/yezhengkai/roc-law-corpus)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yezhengkai&repo=RemBG.jl&show_owner=true&theme=monokai)](https://github.com/yezhengkai/RemBG.jl)
